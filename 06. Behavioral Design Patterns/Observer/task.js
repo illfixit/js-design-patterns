@@ -1,4 +1,4 @@
-var Task = function (data) {
+ var Task = function (data) {
     this.name = data.name;
     this.priority = data.priority;
     this.project = data.project;
